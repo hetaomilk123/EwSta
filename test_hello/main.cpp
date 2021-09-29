@@ -100,27 +100,65 @@ int main()
 
 #endif
 
-// Test 6
-// std::move() example
+//// Test 6
+//// std::move() example
+//
+//// move example
+//#include <utility>      // std::move
+//#include <iostream>     // std::cout
+//#include <vector>       // std::vector
+//#include <string>       // std::string
+//
+//int main () {
+//  std::string foo = "foo-string";
+//  std::string bar = "bar-string";
+//  std::vector<std::string> myvector;
+//
+//  myvector.push_back (foo);                    // copies
+//  myvector.push_back (std::move(bar));         // moves
+//
+//  std::cout << "myvector contains:";
+//  for (std::string& x:myvector) std::cout << ' ' << x;
+//  std::cout << '\n';
+//
+//  std::cout << "bar: " << bar << std::endl;
+//  return 0;
+//}
 
-// move example
-#include <utility>      // std::move
 #include <iostream>     // std::cout
 #include <vector>       // std::vector
 #include <string>       // std::string
 
+class Foo {
+public:
+    static Foo* create(int n = 2) {
+        return new Foo{n};
+    }
+
+private:
+    Foo() = default;
+    explicit Foo(int some) : some(some) {}
+    void doSomeThing() { }  // unable to invoke it outside the scope of member
+        // function
+
+public:
+    int getSome() const {
+        return some;
+    }
+
+    int getSome(const Foo& f) const {
+        return f.some;
+    }
+private:
+    int some;
+};
+
+
+
 int main () {
-  std::string foo = "foo-string";
-  std::string bar = "bar-string";
-  std::vector<std::string> myvector;
+    Foo* o1 = Foo::create();
+    Foo* o2 = Foo::create(5);
 
-  myvector.push_back (foo);                    // copies
-  myvector.push_back (std::move(bar));         // moves
-
-  std::cout << "myvector contains:";
-  for (std::string& x:myvector) std::cout << ' ' << x;
-  std::cout << '\n';
-
-  std::cout << "bar: " << bar << std::endl;
-  return 0;
+    std::cout << o2->getSome(*o1) << std::endl;
+    return 0;
 }
