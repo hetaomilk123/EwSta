@@ -13,8 +13,14 @@
     - 199.232.69.194 github.global.ssl.fastly.net
   - 刷新dns：sudo /etc/init.d/nscd restart
 
+### 工具使用
+- clion：
+- vscode（暂不使用）：
+
+
 ### 相关技术
 - bde：
 - grpc：
 - imgui：
 - devs：
+
