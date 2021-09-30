@@ -19,7 +19,7 @@
 
 
 ### 相关技术
-- bde：
+- bde：https://bloomberg.github.io/bde/news/news.html
 - grpc：
   - protobuf文档：https://developers.google.cn/protocol-buffers?hl=zh-cn
 - imgui：
