@@ -12,3 +12,9 @@
     - 140.82.114.3 github.com
     - 199.232.69.194 github.global.ssl.fastly.net
   - 刷新dns：sudo /etc/init.d/nscd restart
+
+### 相关技术
+- bde：
+- grpc：
+- imgui：
+- devs：
