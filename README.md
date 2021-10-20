@@ -26,3 +26,6 @@
 - devs：
 - json：https://github.com/nlohmann/json
 
+
+### 详细
+- 时间戳设置：https://stackoverflow.com/questions/6012663/get-unix-timestamp-with-c
