@@ -29,3 +29,4 @@
 
 ### 详细
 - 时间戳设置：https://stackoverflow.com/questions/6012663/get-unix-timestamp-with-c
+- 日志系统：`boost/log/trivial.hpp` `bde`
