@@ -37,5 +37,5 @@
 
 ### 看书记录
 - 《cmake》- - 6
-- 《object design》- - 79
+- 《object design》- - 80
 - 《effective c++》- - 第5章
