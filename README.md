@@ -19,6 +19,7 @@
 
 
 ### 相关技术
+- cmake: https://cmake.org/cmake/help/latest/command/configure_file.html
 - bde：https://bloomberg.github.io/bde/news/news.html
 - grpc：
   - protobuf文档：https://developers.google.cn/protocol-buffers?hl=zh-cn
@@ -33,3 +34,8 @@
 
 ### 计算机相关
 - 壁纸：https://bz.zzzmh.cn/index
+
+### 看书记录
+- 《cmake》- - 6
+- 《object design》- - 77
+- 《effective c++》- - 第5章
