@@ -17,6 +17,9 @@
 - clion：
 - vscode（暂不使用）：
 
+### 算法
+- A星算法：https://www.gamedev.net/reference/articles/article2003.asp
+
 
 ### 相关技术
 - cmake: https://cmake.org/cmake/help/latest/command/configure_file.html
