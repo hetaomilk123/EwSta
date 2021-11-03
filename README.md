@@ -19,6 +19,9 @@
 
 ### 算法
 - A星算法：https://www.gamedev.net/reference/articles/article2003.asp
+- Dijkstra算法: 
+- KM算法:
+- 整数规划: 
 
 
 ### 相关技术
