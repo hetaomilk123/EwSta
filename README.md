@@ -37,6 +37,8 @@
 ### 详细
 - 时间戳设置：https://stackoverflow.com/questions/6012663/get-unix-timestamp-with-c
 - 日志系统：`boost/log/trivial.hpp` `bde`
+- c++相关
+  - std::lock_guard<std::mutex>
 
 ### 计算机相关
 - 壁纸：https://bz.zzzmh.cn/index
