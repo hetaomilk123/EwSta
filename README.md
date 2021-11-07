@@ -46,6 +46,6 @@
 
 ### 看书记录
 - 《cmake》- - 6
-- 《object design》- - 166(188) 6.7
+- 《object design》- - 171(193) 6.7
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
