@@ -12,6 +12,7 @@
     - 140.82.114.3 github.com
     - 199.232.69.194 github.global.ssl.fastly.net
   - 刷新dns：sudo /etc/init.d/nscd restart
+- 修改pip源：https://blog.csdn.net/x356982611/article/details/103597259
 
 ### 工具使用
 - clion：
