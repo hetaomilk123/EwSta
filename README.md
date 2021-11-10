@@ -27,10 +27,14 @@
 
 ### 相关技术
 - cmake: https://cmake.org/cmake/help/latest/command/configure_file.html
-- bde：https://bloomberg.github.io/bde/news/news.html
+- bde：
+  - https://bloomberg.github.io/bde/news/news.html
+  - https://bloomberg.github.io/bde/knowledge_base/coding_standards.html#introduction
+  - https://github.com/bloomberg/bde
 - grpc：
   - protobuf文档：https://developers.google.cn/protocol-buffers?hl=zh-cn
-- imgui：
+  - https://github.com/grpc/grpc
+- imgui：https://github.com/ocornut/imgui
 - devs：
 - json：https://github.com/nlohmann/json
 - gtest：
