@@ -38,6 +38,7 @@
 - devs：
 - json：https://github.com/nlohmann/json
 - gtest：
+- git：https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E8%B4%AE%E8%97%8F%E4%B8%8E%E6%B8%85%E7%90%86#_git_stashing
 
 
 ### 详细
@@ -51,6 +52,6 @@
 
 ### 看书记录
 - 《cmake》- - 6
-- 《object design》- - 189(211) appendix has finished
+- 《object design》- - 196(218) appendix has finished
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
