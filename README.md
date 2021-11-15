@@ -38,6 +38,8 @@
 - devs：
 - json：https://github.com/nlohmann/json
 - gtest：
+- gmock：
+- yaml-cpp：
 - git：https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E8%B4%AE%E8%97%8F%E4%B8%8E%E6%B8%85%E7%90%86#_git_stashing
 
 
