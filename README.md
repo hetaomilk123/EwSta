@@ -54,7 +54,7 @@
 
 ### 看书记录
 - 《cmake》- - 6
-- 《object design》- - 231(253) appendix has finished
+- 《object design》- - 237(259) appendix has finished
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
 - 《large scale c++》
