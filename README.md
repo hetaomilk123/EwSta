@@ -44,6 +44,9 @@
 - 数据库：
   - sqlite：https://www.sqlite.org/index.html
 
+- 微服务：
+  - 事件溯源：https://microservices.io/patterns/data/event-sourcing.html
+
 
 ### 详细
 - 时间戳设置：https://stackoverflow.com/questions/6012663/get-unix-timestamp-with-c
