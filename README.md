@@ -63,3 +63,4 @@
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
 - 《large scale c++》
+- 《software architecture with c++》
