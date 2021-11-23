@@ -45,7 +45,7 @@
   - sqlite：https://www.sqlite.org/index.html
 
 - 微服务：
-  - 事件溯源：https://microservices.io/patterns/data/event-sourcing.html
+  - 事件溯源：https://microservices.io/patterns/data/event-sourcing.html （主要思想）
 
 
 ### 详细
