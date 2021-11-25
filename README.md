@@ -44,6 +44,7 @@
 - 数据库：
   - sqlite：https://www.sqlite.org/index.html
     - 安装：https://www.runoob.com/sqlite/sqlite-installation.html
+    - python文档：https://docs.python.org/3/library/sqlite3.html
 
 - 微服务：
   - 事件溯源：https://microservices.io/patterns/data/event-sourcing.html （主要思想）
