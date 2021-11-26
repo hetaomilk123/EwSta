@@ -26,6 +26,7 @@
 
 
 ### 相关技术
+- python(datasheet)：https://docs.python.org/3/library/json.html
 - cmake: https://cmake.org/cmake/help/latest/command/configure_file.html
 - bde：
   - https://bloomberg.github.io/bde/news/news.html
