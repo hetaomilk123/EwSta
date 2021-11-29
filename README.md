@@ -56,6 +56,13 @@
 - 日志系统：`boost/log/trivial.hpp` `bde`
 - c++相关
   - std::lock_guard<std::mutex>
+  -  well-written and mature libraries:
+    - https://www.boost.org/
+    - https://github.com/facebook/folly
+    - https://github.com/electronicarts/EASTL
+    - https://github.com/bloomberg/bde
+    - https://abseil.io/
+    - https://github.com/fffaraz/awesome-cpp
 
 ### 计算机相关
 - 壁纸：https://bz.zzzmh.cn/index
