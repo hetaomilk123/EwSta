@@ -13,6 +13,7 @@
     - 199.232.69.194 github.global.ssl.fastly.net
   - 刷新dns：sudo /etc/init.d/nscd restart
 - 修改pip源：https://blog.csdn.net/x356982611/article/details/103597259
+- 安装qt-designer：sudo apt-get install qt5-default qttools5-dev-tools （安装完成后，执行designer即可）
 
 ### 工具使用
 - clion：
