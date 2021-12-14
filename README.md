@@ -1,6 +1,5 @@
 # NewStart
 
-## 一些有用的网站
 ### ubuntu软件安装
 - 搜狗输入法安装：https://blog.csdn.net/weixin_38924500/article/details/106156630
 - vscode安装：
