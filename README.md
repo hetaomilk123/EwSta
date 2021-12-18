@@ -56,13 +56,17 @@
 - 日志系统：`boost/log/trivial.hpp` `bde`
 - c++相关
   - std::lock_guard<std::mutex>
-  -  well-written and mature libraries:
-    - https://www.boost.org/
-    - https://github.com/facebook/folly
-    - https://github.com/electronicarts/EASTL
-    - https://github.com/bloomberg/bde
-    - https://abseil.io/
-    - https://github.com/fffaraz/awesome-cpp
+  - well-written and mature libraries:
+  - https://www.boost.org/
+  - https://github.com/facebook/folly
+  - https://github.com/electronicarts/EASTL
+  - https://github.com/bloomberg/bde
+  - https://abseil.io/
+  - https://github.com/fffaraz/awesome-cpp
+- 工程前期设计工具：
+  - https://app.diagrams.net/
+  - https://github.com/tobiashochguertel/c4-draw.io
+
 
 ### 计算机相关
 - 壁纸：https://bz.zzzmh.cn/index
@@ -73,7 +77,7 @@
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
 - 《large scale c++》
-- 《software architecture with c++》- - 68(88)
+- 《software architecture with c++》- - 81(101)
   - 实践：http://docs.cppmicroservices.org/en/stable/doc/src/getting_started.html
 - 《C++ crash course》
   - Ch11:348(406)
