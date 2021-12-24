@@ -26,7 +26,11 @@
 
 
 ### 相关技术
-- python(datasheet)：https://docs.python.org/3/library/json.html
+- python(datasheet)：
+  - https://docs.python.org/3/library/json.html
+  - pyintaller打包:
+    - https://www.codeforests.com/2020/07/17/pack-python-program-into-exe-file/
+    - https://pyinstaller.readthedocs.io/en/stable/usage.html
 - cmake: https://cmake.org/cmake/help/latest/command/configure_file.html
 - bde：
   - https://bloomberg.github.io/bde/news/news.html
