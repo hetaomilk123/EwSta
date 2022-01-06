@@ -81,7 +81,7 @@
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
 - 《large scale c++》
-- 《software architecture with c++》- - 133
+- 《software architecture with c++》- - 139
   - 实践：http://docs.cppmicroservices.org/en/stable/doc/src/getting_started.html
 - 《C++ crash course》
-  - Ch11:348(406)
+  - Ch11- -finished at 2022.01.04 10:00
