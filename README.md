@@ -70,6 +70,8 @@
 - 工程前期设计工具：
   - https://app.diagrams.net/
   - https://github.com/tobiashochguertel/c4-draw.io
+- 代码转汇编
+  - https://godbolt.org/
 
 
 ### 计算机相关
@@ -81,7 +83,7 @@
 - 《effective c++》- - 第6章
 - 《操作系统》- - 内存管理
 - 《large scale c++》
-- 《software architecture with c++》- - 139
+- 《software architecture with c++》- - 159
   - 实践：http://docs.cppmicroservices.org/en/stable/doc/src/getting_started.html
 - 《C++ crash course》
   - Ch11- -finished at 2022.01.04 10:00
