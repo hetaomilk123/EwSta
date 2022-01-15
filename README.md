@@ -32,6 +32,7 @@
     - https://www.codeforests.com/2020/07/17/pack-python-program-into-exe-file/
     - https://pyinstaller.readthedocs.io/en/stable/usage.html
 - cmake: https://cmake.org/cmake/help/latest/command/configure_file.html
+  - 下载慢：https://github.com/Kitware/CMake/releases
 - bde：
   - https://bloomberg.github.io/bde/news/news.html
   - https://bloomberg.github.io/bde/knowledge_base/coding_standards.html#introduction
